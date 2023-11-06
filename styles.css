@@ -1,0 +1,54 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    padding: 20px;
+}
+
+header h1{
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+}
+header p{
+    font-size: 1.5em;
+    margin: 0;
+}
+
+section {
+
+    background-color: beige;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#About, #projects, #contact {
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.project {
+    margin: 20px 0;
+}
+
+.project img{
+    size: 100px;
+}
+ 
+.project h3{
+    font-size: 1.2em;
+    margin: 10px 0;
+}
